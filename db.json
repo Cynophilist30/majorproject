@@ -368,8 +368,8 @@
       "email": "sartik50@gmail.com",
       "phone-no": "1234576838"
     }
-      ],
-      "cardData_jitin" : [
+          ],
+        "cardData_jitin" : [
         {
           "name": "Lisa Das",
           "rating": 5,
@@ -434,7 +434,7 @@
           "image": "https://assets.nobroker.in/images/testimonials/ff8081815185752901518659f9cc12da.jpg"
         }
           ],
-          "kunwer":[
+       "kunwer":[
             {
               "apartment_name":
                 "1 RK Apartment In Ashish Residency For Sale In Uran",
@@ -968,6 +968,6 @@
           "https://images.nobroker.in/images/8a9ffd848a30e74c018a31a2c9543c51/8a9ffd848a30e74c018a31a2c9543c51_487_300601_medium.jpg"
         ]
       }
-            ]
+          ]
 
  }
