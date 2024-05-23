@@ -1,0 +1,33 @@
+{
+    "user_sartik":[
+    { 
+      "password":"passsword",
+      "username" :"sartik",
+      "email":"sartik@gmail.com",
+      "phone-no":"1234576789"
+    },
+    {
+      "username": "sartik1",
+      "email": "sartik1@gmail.com",
+      "password":"passsword1",
+      "phone-no": "1234576789"
+    },
+    {
+      "username": "sartik2",
+      "password":"passsword3",
+      "email": "sartik2@gmail.com",
+      "phone-no": "1234576790"
+    },
+    {
+      "username": "sartik3",
+      "password":"passsword4",
+      "email": "sartik3@gmail.com",
+      "phone-no": "1234576791"
+    },  
+    {
+      "username": "sartik50",
+      "password":"passsword5",
+      "email": "sartik50@gmail.com",
+      "phone-no": "1234576838"
+    }
+      ]}
